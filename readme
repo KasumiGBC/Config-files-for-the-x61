@@ -1,0 +1,15 @@
+Config files for the x61 using Arch and i3 (may 2024)
+
+bashmount: only changed file manager
+
+fish: changed colors from the default. Fish_prompt function for customized prompt
+
+i3: personalised colors, shortcuts and remoded the i3bar
+
+mpv: only added fixed resolution for streaming
+
+polybar: custom colors, added modules, modified some default modules.
+
+st: patched with scrollback and alpha-focus
+
+thinkfan.yaml: last iteration

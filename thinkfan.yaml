@@ -1,0 +1,17 @@
+# Thinkfan configuration file for the x61
+
+sensors:
+ - hwmon: /sys/class/hwmon
+   name: thinkpad
+   indices: [1, 2]
+   max_errors: 10
+
+fans:
+ - tpacpi: /proc/acpi/ibm/fan
+
+levels:
+ - [0,   0,      61]
+ - [1,   60,     71]
+ - [4,   70,     81]
+ - [7,   80,     86]
+ - ["level disengaged", 85,     150]
