@@ -15,3 +15,5 @@ polybar: custom colors, added modules, modified some default modules.
 st: patched with scrollback and alpha-focus
 
 thinkfan.yaml: last iteration
+
+omf: colors for the prompt and command line on fish
