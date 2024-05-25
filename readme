@@ -1,4 +1,4 @@
-Config files for the x61 using Arch and i3 (may 2024)
+Config files for the x61 using Arch and i3. Meant to be cloned on the ~/.config/ directory.
 
 bashmount: only changed file manager
 
