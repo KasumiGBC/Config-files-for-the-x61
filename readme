@@ -4,7 +4,9 @@ bashmount: only changed file manager
 
 fish: changed colors from the default. Fish_prompt function for customized prompt
 
-i3: personalised colors, shortcuts and remoded the i3bar
+i3: changed font, added shortcuts and removed the i3bar
+
+i3scripts: custom colors
 
 mpv: only added fixed resolution for streaming
 
