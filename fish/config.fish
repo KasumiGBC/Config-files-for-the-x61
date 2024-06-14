@@ -9,4 +9,4 @@ if status is-login
 	end
 end
 
-set -gx EDITOR vim 
+set -gx EDITOR vim

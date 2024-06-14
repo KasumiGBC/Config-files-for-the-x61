@@ -6,6 +6,8 @@ fish: changed colors from the default. Fish_prompt function for customized promp
 
 i3: changed font, added shortcuts and removed the i3bar
 
+i3/scripts/lock: script for the lock screen for inacivity
+
 i3scripts: custom colors
 
 mpv: only added fixed resolution for streaming
