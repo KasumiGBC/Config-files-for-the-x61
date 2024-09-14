@@ -10,3 +10,4 @@ if status is-login
 end
 
 set -gx EDITOR vim
+setxkbmap latam
